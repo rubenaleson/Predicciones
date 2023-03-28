@@ -64,7 +64,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 # crear el modelo de regresión lineal
 model = LinearRegression()
 
-# entrenar el modelo con los datos de entrenamiento
+# entrenar el modelo con los datos de los entrenamiento
 model.fit(X_train, y_train)
 
 #print("El X_test: \n", X_test.loc[0], "\n")
