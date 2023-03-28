@@ -1,5 +1,5 @@
 # Databricks notebook source
-#CONEXIÓN A LA BASE DE DATOS<s
+#CONEXIÓN A LA BASE DE DATOS
 
 
 
